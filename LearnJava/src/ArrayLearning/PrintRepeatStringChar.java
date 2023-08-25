@@ -13,7 +13,7 @@ public class PrintRepeatStringChar {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str="Muuuutthuu";
+		String str="hello";
 
 		HashMap<String, Integer> hm=new HashMap<String,Integer>();
 		for (int i = 0; i < str.length(); i++) {
